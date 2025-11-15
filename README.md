@@ -1,8 +1,6 @@
 # AKN-tokenized-KYC
 Reusable tokenised KYC with consent-based selective sharing and adaptive trust scoring across institutions.
 
-Here is the **complete polished README in clean Markdown**, ready to paste directly into GitHub.
-
 ---
 
 #  **AKN — Adaptive KYC Network**
