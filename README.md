@@ -221,7 +221,3 @@ Code modules and API implementations will be added progressively during the hack
 ##  License
 
 This project is licensed under the **Apache 2.0 License**.
-
----
-Just say **“give repo structure”** or **“add diagrams”**!
-
