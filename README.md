@@ -50,7 +50,7 @@ A dynamic scoring engine evaluating institutions based on:
 * Historical fraud patterns
 * Compliance stability
 
-ATG helps route verification requests through the most reliable nodes — improving safety & reducing fraud propagation.
+ATG helps route verification requests through the most reliable nodes, improving safety & reducing fraud propagation.
 
 ---
 
